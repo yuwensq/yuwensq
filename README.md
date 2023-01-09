@@ -31,6 +31,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [硬件预取](https://yuwensq.github.io/2022/12/15/%E7%A1%AC%E4%BB%B6%E9%A2%84%E5%8F%96/#more)
+- [ARM加法指令中的立即数](https://yuwensq.github.io/2023/01/08/ARM%E5%8A%A0%E6%B3%95%E7%AB%8B%E5%8D%B3%E6%95%B0/#more)
 <!-- BLOG-POST-LIST:END -->
 
 
