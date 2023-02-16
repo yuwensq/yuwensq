@@ -2,7 +2,7 @@
 
 - 🤔 Wenbin Xu
 - 💬 Just study.
-- 📫 yuwensq234@163.com
+- 📫 wenbinxu103@gmail.com
 - 🚀 [BinのBlog](https://yuwensq.github.io/)
 
 
