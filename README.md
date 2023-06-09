@@ -38,19 +38,8 @@
 
 
 
-# 🔭Actions
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yuwensq"/>
-</div>
+<!-- # 🔭Actions -->
 
 
 # 🌱Social
 
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=yuwensq&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
-
-<div align="center">
-  <img height="250px" src="https://stats.justsong.cn/api/github?username=yuwensq"/>
- </div>
