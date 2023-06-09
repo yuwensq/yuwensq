@@ -44,5 +44,5 @@
 # 🌱Social
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yuwensq"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yuwensq&theme=gruvbox_light"/>
 </div>
