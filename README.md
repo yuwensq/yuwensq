@@ -43,6 +43,4 @@
 
 # 🌱Social
 
-<div align="center">
-[![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwensq)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<div align=center>[![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwensq)](https://github.com/anuraghazra/github-readme-stats)
