@@ -43,6 +43,6 @@
 
 # 🌱Social
 
-<center>
-  ![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwensq)
- </center>
+<div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yuwensq"/>
+</div>
